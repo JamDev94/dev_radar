@@ -4,9 +4,9 @@
 
 ## Author
 
-👤 **Gustavo Souza**
+👤 **PEXEROS**
 
-* Github: [@guuhx97](https://github.com/guuhx97)
+* Github: [@JamDev94](https://github.com/JamDev94)
 
 ## Show your support
 
